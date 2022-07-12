@@ -7,6 +7,14 @@
 - 📫 How to reach me: [raphaelfp](https://linkedin.com/in/raphaelfp)
 - 🏡 Based in Brazil
 
+![](https://github.com/raphaelfp/gophers/blob/master/.thumb/animation/morning-coffee-3x.gif)
+
+*Gopher image by [egonelbre](https://github.com/egonelbre/)*
+
+### Technologies I was using at work last week (WakaTime)
+
+---
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -18,7 +26,3 @@ Other                             ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![](https://github.com/raphaelfp/gophers/blob/master/.thumb/animation/morning-coffee-3x.gif)
-
-*Gopher image by [egonelbre](https://github.com/egonelbre/)*
