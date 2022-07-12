@@ -7,6 +7,9 @@
 - 📫 How to reach me: [raphaelfp](https://linkedin.com/in/raphaelfp)
 - 🏡 Based in Brazil
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://github.com/raphaelfp/gophers/blob/master/.thumb/animation/morning-coffee-3x.gif)
 
 *Gopher image by [egonelbre](https://github.com/egonelbre/)*
