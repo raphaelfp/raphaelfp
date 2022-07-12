@@ -11,7 +11,7 @@
 
 *Gopher image by [egonelbre](https://github.com/egonelbre/)*
 
-### Technologies I was using at work last week (WakaTime)
+### 📊 This week I spent my time on (WakaTime)
 
 ---
 
