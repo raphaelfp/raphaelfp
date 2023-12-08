@@ -18,10 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                        ███████████▓░░░░░░░░░░░░░   46.99 %
-Markdown                     ██████████▓░░░░░░░░░░░░░░   42.80 %
-sh                           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-JavaScript                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
