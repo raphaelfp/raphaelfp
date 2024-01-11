@@ -18,7 +18,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+sh                   ██████████████████▒░░░░░░   73.79 %
+Go                   ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
 ```
 
 <!--END_SECTION:waka-->
