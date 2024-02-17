@@ -18,8 +18,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                   ███████████████████▒░░░░░   77.31 %
-sh                     █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
