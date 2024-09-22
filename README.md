@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+sh                         ███████████████░░░░░░░░░░   60.15 %
+YAML                       █████████░░░░░░░░░░░░░░░░   35.82 %
+Makefile                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
