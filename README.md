@@ -2,7 +2,7 @@
 
 - 📖 I'm a Computer Engineer
 - 🔭 Currently working as a Backend Engineer @ [Wildlife Studios](https://wildlifestudios.com/)
-- 🌱 Learning about Cloud, AWS, DevOps, Go and Web3 (😲)
+- 🌱 Learning about AI, Cloud, AWS, DevOps, Go and others
 - 🚀 Tech stack that I'm using: Go, AWS, Docker, Kubernetes and sometimes Python and Machine Learning
 - 📫 How to reach me: [raphaelfp](https://linkedin.com/in/raphaelfp)
 - 🏡 Based in Brazil
