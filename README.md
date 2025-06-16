@@ -10,15 +10,3 @@
 ![](https://github.com/raphaelfp/gophers/blob/master/.thumb/animation/morning-coffee-3x.gif)
 
 *Gopher image by [egonelbre](https://github.com/egonelbre/)*
-
-### 📊 This week I spent my time on (WakaTime)
-
----
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
