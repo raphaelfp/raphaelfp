@@ -1,4 +1,4 @@
-<img src="banner-option-2.png" alt="Raphael Pereira - Staff Engineer | Go | Cloud | AI Agents" width="100%">
+<img src="banner.png" alt="Raphael Pereira - Building things that think" width="100%">
 
 ### Hi there 👋
 
@@ -18,7 +18,3 @@ Staff Software Engineer @ [Arvo](https://arvo.com.br/). Building AI agents, clou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaelfp)
 [![Blog](https://img.shields.io/badge/Blog-raphaelfp.com-000?style=flat&logo=ghost&logoColor=white)](https://raphaelfp.com)
-
----
-
-*Banner options: [option 1](banner-option-1.png) · [option 2](banner-option-2.png) · [option 3](banner-option-3.png) — pick your favorite and I'll clean up the rest.*
